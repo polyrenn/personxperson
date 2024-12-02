@@ -40,7 +40,7 @@ body {
 .name {
     position: absolute;
     top: 0;
-    font-size: 104px;
+    font-size: 64px;
     color: white;
     text-align: center;
 }
