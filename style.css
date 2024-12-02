@@ -1,0 +1,54 @@
+.backdrop {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('wedding-backdrop.jpeg');
+    background-repeat: no-repeat;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    position: absolute;
+    bottom: 10%;
+    left: calc(50% - 200);
+    background-color: #FDBCB4;
+    padding: 8px;
+    border-radius: 222px;
+    width: 200px;
+    height: 56px;
+    border: none;
+    color: aliceblue;
+    font-size: 20px;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+}
+
+.link {
+    text-decoration: none
+}
+
+.name {
+    position: absolute;
+    top: 0;
+    font-size: 104px;
+    color: white;
+    text-align: center;
+}
+
+.fleur-de-leah-regular {
+    font-family: "Fleur De Leah", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+
