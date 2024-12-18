@@ -3,6 +3,7 @@
     height: 100vh;
     background-image: url('wedding-backdrop.jpg');
     background-repeat: no-repeat;
+    background-position: 40% 20%;
 }
 
 body {
